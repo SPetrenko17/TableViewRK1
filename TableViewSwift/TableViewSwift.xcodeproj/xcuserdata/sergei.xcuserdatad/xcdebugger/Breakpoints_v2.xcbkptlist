@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewSwift/CustomTableViewCell.swift"
+            timestampString = "576016642.746784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fillCell(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewSwift.CustomTableViewCell.titleLabel.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TableViewSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergei/Desktop/ios/05/TableViewSwift/TableViewSwift/CustomTableViewCell.swift"
+                  timestampString = "573584059.420488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewSwift.CustomTableViewCell.titleLabel.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TableViewSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergei/Desktop/ios/05/TableViewSwift/TableViewSwift/CustomTableViewCell.swift"
+                  timestampString = "573584059.432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewSwift.CustomTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TableViewSwift.CustomTableViewCell"
+                  moduleName = "TableViewSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergei/Desktop/ios/05/TableViewSwift/TableViewSwift/CustomTableViewCell.swift"
+                  timestampString = "573584059.43388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableViewSwift.CustomTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TableViewSwift.CustomTableViewCell&gt;"
+                  moduleName = "TableViewSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergei/Desktop/ios/05/TableViewSwift/TableViewSwift/CustomTableViewCell.swift"
+                  timestampString = "573584059.435532"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
